@@ -41,14 +41,9 @@ Responsive web application with frontend UI and backend logic
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav2040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2040&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Vaibhav2040&theme=tokyonight&hide_border=true)
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vaibhav2040&theme=tokyo-night&hide_border=true)
 
 ## 📫 Connect With Me
 
