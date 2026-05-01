@@ -3,7 +3,7 @@
 🎓 MS Computer Science @ Wright State University | **4.0 GPA**  
 💻 Full Stack Developer | AI/ML | Cloud (AWS)  
 📍 Fairborn, Ohio, USA  
-🔍 Actively seeking Summer 2026 internships in SWE · AI/ML · Cloud  
+SWE@Spacebourne Intern  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhavpatel--ai-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/vaibhavpatel-ai)
 [![GitHub](https://img.shields.io/badge/GitHub-Vaibhav2040-181717?style=flat&logo=github)](https://github.com/Vaibhav2040)
